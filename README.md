@@ -1,201 +1,396 @@
 <div align="center">
 
-<br>
+<br><br>
 
 # ज्वजलपा 🙏
 
-## **KRISHAL SHRESTHA**
+<br>
 
-`COMPUTER ENGINEER` &nbsp;·&nbsp; `SOFTWARE DEVELOPER` &nbsp;·&nbsp; `PHOTOGRAPHER`
+# **KRISHAL**
+# **SHRESTHA**
+
+### `COMPUTER ENGINEER`  ·  `SOFTWARE DEVELOPER`  ·  `PHOTOGRAPHER`
 
 <br>
 
-### **Code the vision. Capture the moment. 🇳🇵**
-
-<br>
-
-`DONDAII` &nbsp;&nbsp; / &nbsp;&nbsp; NEPAL &nbsp;&nbsp; / &nbsp;&nbsp; DIGITAL CRAFT
-
-<br><br>
-
-</div>
-
----
-
-<div align="center">
-
-`01 — THE PERSON BEHIND THE CODE`
-
-</div>
-
-<br>
-
-I build software from the engineering side and preserve stories from the
-visual side.
-
-Based in **Nepal**, I am studying Computer Engineering while building across
-web applications, mobile experiences, backend systems, APIs and databases.
-Outside the screen, I work through a camera — exploring portraits, events,
-landscapes and visual stories.
-
-The two worlds are different in medium, but similar in instinct:
-
-> **Observe → Design → Build → Refine → Preserve**
-
-<br>
-
----
-
-<div align="center">
-
-### `02 / ENGINEERING`
-
-## **IDEA → SYSTEM → EXPERIENCE**
-
-<br>
-
-`WEB` &nbsp; · &nbsp; `MOBILE` &nbsp; · &nbsp; `BACKEND` &nbsp; · &nbsp; `APIs`  
-`DATABASES` &nbsp; · &nbsp; `SYSTEMS`
-
-<br>
-
-I like software that has a reason to exist.
-
-Not just interfaces.  
-Not just code.  
-**Systems people can actually use.**
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,dart,c,cpp,php,html,css,tailwind,react,nextjs,flutter,fastapi,django,nodejs,postgres,mysql,supabase,firebase,git,github,vscode,androidstudio,vercel,cloudinary&perline=9" alt="Krishal Shrestha technology stack" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-`LANGUAGES` &nbsp; / &nbsp; `INTERFACES` &nbsp; / &nbsp; `MOBILE` &nbsp; / &nbsp; `SERVICES` &nbsp; / &nbsp; `DATA` &nbsp; / &nbsp; `TOOLS`
-
-</div>
-
----
-
-<div align="center">
-
-### `03 / CURRENT WORKBENCH`
-
-## **THINGS I BUILD**
-
-<br>
-
-| `01` | **Web** | Interfaces, platforms & digital experiences |
-| :---: | :--- | :--- |
-| `02` | **Mobile** | Practical applications built for the real world |
-| `03` | **Backend** | APIs, services & application logic |
-| `04` | **Data** | Databases, storage & connected systems |
-| `05` | **Visual** | Photography, composition & visual storytelling |
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### `04 / BEYOND THE SCREEN`
-
-# **DR DSLR**
-
-### **HIMAL SHRESTHA**
-
-`PHOTOGRAPHY — NEPAL`
-
-<br>
-
-> **Capturing Moments Beyond Vision.**
-
-<br>
-
-`PORTRAITS` &nbsp;&nbsp; `EVENTS` &nbsp;&nbsp; `LANDSCAPES` &nbsp;&nbsp; `VISUAL STORIES`
-
-<br><br>
-
-**CODE** &nbsp;→&nbsp; **CREATE** &nbsp;→&nbsp; **FRAME** &nbsp;→&nbsp; **PRESERVE**
-
-<br>
-
-</div>
-
-Photography is not a separate chapter from the person behind this profile.
-
-It is another way of thinking.
-
-Where software captures **logic**, a camera captures **memory**.
-
----
-
-<div align="center">
-
-### `05 / OPEN SOURCE TRACE`
-
-<br>
-
-<a href="https://github.com/DonDaii">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DonDaii&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Krishal's GitHub statistics" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/DonDaii">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonDaii&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Krishal's most used languages" />
-</a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=DonDaii&hide_border=true&theme=transparent" alt="Krishal's GitHub contribution streak" />
-
-<br><br>
-
-`THE GRAPH IS THE RECEIPT.`
-
-</div>
-
----
-
-<div align="center">
-
-### `06 / FIND ME`
-
-<br>
-
-<a href="https://github.com/DonDaii">GITHUB</a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/dondaii17/">LINKEDIN</a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="https://www.instagram.com/only__krishal/">INSTAGRAM</a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="https://www.facebook.com/unique.krishal.17/">FACEBOOK</a>
-
-<br><br>
-
-`DONDAII` &nbsp;·&nbsp; `KRISHAL SHRESTHA` &nbsp;·&nbsp; `NEPAL 🇳🇵`
-
-</div>
-
-<br>
-
----
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111111,50:1c1c1c,100:000000&section=header&text=&fontSize=0" width="100%" alt=""/>
 
 <br>
 
 ## **CODE THE VISION.**
 ## **CAPTURE THE MOMENT. 🇳🇵**
+
+<br>
+
+`DONDAII` &nbsp; / &nbsp; `NEPAL` &nbsp; / &nbsp; `EST. 2000s`
+
+<br><br>
+
+</div>
+
+---
+
+<div align="center">
+
+`01 — IDENTITY`
+
+<br>
+
+# **TWO MEDIUMS.**
+# **ONE MIND.**
+
+</div>
+
+<br>
+
+I build with **logic** and create with **vision**.
+
+Computer Engineering is where I design systems, build software,
+work with data, APIs and applications.
+
+Photography is where I slow down, observe light, frame people,
+and preserve moments that would otherwise disappear.
+
+Different tools.
+
+Different outputs.
+
+**Same instinct — create something worth keeping.**
+
+<br>
+
+<div align="center">
+
+`ENGINEERING` &nbsp;&nbsp; **×** &nbsp;&nbsp; `CREATIVE`
+
+</div>
+
+---
+
+<div align="center">
+
+`02 — THE WORKBENCH`
+
+<br>
+
+# **I BUILD THINGS**
+# **THAT HAVE A PURPOSE.**
+
+<br>
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### `01`
+
+**WEB**
+
+Interfaces  
+Platforms  
+Experiences
+
+</td>
+
+<td align="center" width="25%">
+
+### `02`
+
+**MOBILE**
+
+Applications  
+Products  
+Tools
+
+</td>
+
+<td align="center" width="25%">
+
+### `03`
+
+**BACKEND**
+
+APIs  
+Services  
+Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### `04`
+
+**DATA**
+
+Databases  
+Storage  
+Infrastructure
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### `THE STACK`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,dart,c,cpp,php&perline=7" alt="Languages"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=5" alt="Frontend"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=flutter,fastapi,django,nodejs&perline=4" alt="Mobile and Backend"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase&perline=4" alt="Databases"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,vercel,cloudinary&perline=6" alt="Tools"/>
+
+<br><br>
+
+`LANGUAGE` &nbsp; · &nbsp; `INTERFACE` &nbsp; · &nbsp; `APPLICATION` &nbsp; · &nbsp; `SERVICE` &nbsp; · &nbsp; `DATA`
+
+</div>
+
+---
+
+<div align="center">
+
+`03 — CREATIVE DIVISION`
+
+<br>
+
+# **DR DSLR**
+
+### **HIMAL SHRESTHA**
+
+<br>
+
+`PHOTOGRAPHY / NEPAL`
+
+<br>
+
+# *Capturing Moments*
+# *Beyond Vision.*
+
+<br>
+
+`PORTRAITS` &nbsp; / &nbsp; `EVENTS` &nbsp; / &nbsp; `LANDSCAPES` &nbsp; / &nbsp; `VISUAL STORIES`
+
+<br><br>
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+
+**SEE**
+
+<br>
+
+Observe the moment.
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+**FRAME**
+
+<br>
+
+Give it meaning.
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+**PRESERVE**
+
+<br>
+
+Make it last.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+Photography isn't an escape from technology.
+
+**It's another way of understanding the world.**
+
+</div>
+
+---
+
+<div align="center">
+
+`04 — CURRENT FREQUENCY`
+
+<br>
+
+# **CODE**
+### `LOGIC / SYSTEMS / STRUCTURE`
+
+<br>
+
+↓ 
+
+<br>
+
+# **CREATE**
+### `IDEAS / PRODUCTS / EXPERIENCES`
+
+<br>
+
+↓
+
+<br>
+
+# **FRAME**
+### `LIGHT / PEOPLE / STORIES`
+
+<br>
+
+↓
+
+<br>
+
+# **PRESERVE**
+### `MEMORY / IMPACT / MEANING`
+
+<br>
+
+</div>
+
+---
+
+<div align="center">
+
+`05 — GITHUB / PROOF OF WORK`
+
+<br>
+
+### **THE CODE SPEAKS FOR ITSELF.**
+
+<br>
+
+<a href="https://github.com/DonDaii">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DonDaii&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=000000&text_color=555555&icon_color=000000" height="165" alt="Krishal's GitHub statistics"/>
+
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/DonDaii">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonDaii&layout=compact&hide_border=true&langs_count=7&theme=transparent&title_color=000000&text_color=555555" height="165" alt="Krishal's most used languages"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/DonDaii">
+
+<img src="https://streak-stats.demolab.com?user=DonDaii&hide_border=true&theme=transparent" alt="Krishal's GitHub contribution streak"/>
+
+</a>
+
+<br><br>
+
+`NO NOISE.` &nbsp;&nbsp; `JUST THE WORK.`
+
+</div>
+
+---
+
+<div align="center">
+
+`06 — ELSEWHERE`
+
+<br><br>
+
+<a href="https://github.com/DonDaii">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/dondaii17/">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.instagram.com/only__krishal/">
+<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.facebook.com/unique.krishal.17/">
+<img src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<br><br>
+
+`KRISHAL SHRESTHA` &nbsp; · &nbsp; `DONDAII` &nbsp; · &nbsp; `NEPAL 🇳🇵`
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<br><br>
+
+# **A DEVELOPER**
+# **WITH A CAMERA.**
+
+<br>
+
+### **A PHOTOGRAPHER**
+### **WHO THINKS IN SYSTEMS.**
+
+<br><br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br><br>
+
+# **CODE THE VISION.**
+# **CAPTURE THE MOMENT. 🇳🇵**
 
 <br>
 
