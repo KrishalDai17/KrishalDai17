@@ -6,8 +6,20 @@
 
 **Code the vision. Capture the moment. 🇳🇵**
 
-<br>
+</div>
 
+---
+
+<div align="center">
+
+## 👨‍💻 About Me
+
+I'm a **Computer Engineering student from Nepal** who enjoys turning ideas into useful digital products.
+
+My interests span **software development, web applications, mobile development, backend systems, databases, and photography**.
+
+I enjoy learning by building — from developing applications and APIs to creating visual stories through a camera.
+<br>
 <a href="https://github.com/DonDaii">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -23,19 +35,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 👨‍💻 About Me
-
-I'm a **Computer Engineering student from Nepal** who enjoys turning ideas into useful digital products.
-
-My interests span **software development, web applications, mobile development, backend systems, databases, and photography**.
-
-I enjoy learning by building — from developing applications and APIs to creating visual stories through a camera.
-
-</div>
 
 ---
 
