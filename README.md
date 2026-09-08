@@ -4,9 +4,7 @@
 
 ### `Computer Engineer` · `Software Developer` · `Photographer`
 
-**Building with code · Creating with vision · Capturing moments**
-
-🇳🇵 **Nepal**
+**Code the vision. Capture the moment. 🇳🇵**
 
 <br>
 
@@ -31,13 +29,13 @@
 
 ## 👨‍💻 About Me
 
-</div>
-
 I'm a **Computer Engineering student from Nepal** who enjoys turning ideas into useful digital products.
 
 My interests span **software development, web applications, mobile development, backend systems, databases, and photography**.
 
 I enjoy learning by building — from developing applications and APIs to creating visual stories through a camera.
+
+</div>
 
 ---
 
@@ -46,6 +44,21 @@ I enjoy learning by building — from developing applications and APIs to creati
 ## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,dart,cpp,c,php,html,css,tailwind,react,nextjs,flutter,fastapi,django,nodejs,postgres,mysql,supabase,firebase,git,github,vscode,androidstudio,vercel,cloudinary" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📸 Beyond Code
+
+### **DR DSLR — Himal Shrestha**
+
+*Capturing Moments Beyond Vision.*
+
+**Photography isn't just about taking pictures —  
+it's about preserving moments, emotions, and stories.**
 
 </div>
 
@@ -75,7 +88,7 @@ I enjoy learning by building — from developing applications and APIs to creati
 
 <br>
 
-### ✦ Think. Build. Capture. Repeat. ✦
+### ✦ Code the vision. Capture the moment. 🇳🇵 ✦
 
 <br>
 
