@@ -49,23 +49,7 @@ I enjoy learning by building — from developing applications and APIs to creati
 
 </div>
 
-
 ---
-
-<div align="center">
-
-## 🚀 What I Build
-
-|    💻 Software    | 📱 Applications |     ⚙️ Systems     | 📸 Photography |
-| :---------------: | :-------------: | :----------------: | :------------: |
-|   Web Platforms   |   Mobile Apps   |   Backend & APIs   |    Portraits   |
-|  Full-Stack Apps  |   Flutter Apps  |  Database Systems  |     Events     |
-| Modern Interfaces |  Cross-Platform | Management Systems |   Landscapes   |
-
-</div>
-
----
-
 
 <div align="center">
 
