@@ -20,6 +20,7 @@ My interests span **software development, web applications, mobile development, 
 
 I enjoy learning by building — from developing applications and APIs to creating visual stories through a camera.
 <br>
+<br>
 <a href="https://github.com/DonDaii">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -35,7 +36,6 @@ I enjoy learning by building — from developing applications and APIs to creati
 
 </div>
 
-
 ---
 
 <div align="center">
@@ -43,21 +43,6 @@ I enjoy learning by building — from developing applications and APIs to creati
 ## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,dart,cpp,c,php,html,css,tailwind,react,nextjs,flutter,fastapi,django,nodejs,postgres,mysql,supabase,firebase,git,github,vscode,androidstudio,vercel,cloudinary" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📸 Beyond Code
-
-### **DR DSLR — Himal Shrestha**
-
-*Capturing Moments Beyond Vision.*
-
-**Photography isn't just about taking pictures —  
-it's about preserving moments, emotions, and stories.**
 
 </div>
 
