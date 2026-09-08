@@ -1,62 +1,113 @@
-# Hey, I'm Krishal 👋
+<div align="center">
+
+# Hey, I'm **Krishal Shrestha** 👋
 
 ### `Computer Engineer` · `Software Developer` · `Photographer`
 
-> Building things with code. Capturing things with a camera. 🇳🇵
+**Building with code · Creating with vision · Capturing moments**
 
-I'm a Computer Engineering student from Nepal passionate about **software development, problem solving, and visual storytelling**. I enjoy building useful applications, exploring technologies, and creating things that are both functional and meaningful.
+🇳🇵 **Nepal**
 
----
+<br>
 
-### ⚡ What I Do
+<a href="https://github.com/DonDaii">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dondaii17/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/only__krishal/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/unique.krishal.17">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
-💻 **Software Development**
-Web Applications · Mobile Apps · Backend & APIs · Databases
-
-📸 **Photography**
-Portraits · Events · Landscapes · Visual Stories
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,dart,cpp,c,php,react,nextjs,flutter,fastapi,django" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,git,github,vercel,cloudinary,html,css,tailwind" />
-</p>
+</div>
 
 ---
 
-### 📸 Beyond Code
+<div align="center">
 
-**DR DSLR — Himal Shrestha**
-*Capturing Moments Beyond Vision.*
+## 👨‍💻 About Me
 
-When I'm not writing code, you'll probably find me behind a camera.
+</div>
 
----
+I'm a **Computer Engineering student from Nepal** who enjoys turning ideas into useful digital products.
 
-### 🌐 Let's Connect
+My interests span **software development, web applications, mobile development, backend systems, databases, and photography**.
 
-<p align="center">
-  <a href="https://github.com/DonDaii">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  <a href="YOUR_INSTAGRAM_URL">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-  </a>
-</p>
+I enjoy learning by building — from developing applications and APIs to creating visual stories through a camera.
 
 ---
 
-### ✦ Philosophy
+<div align="center">
 
-> **Think. Build. Capture. Repeat.**
+## 🛠️ Tech Stack
 
-**— Krishal Shrestha**
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,dart,cpp,c,php" />
+
+### Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,flutter" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,postgres,mysql,supabase,firebase" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,vercel,cloudinary" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 What I Build
+
+|    💻 Software    | 📱 Applications |     ⚙️ Systems     | 📸 Photography |
+| :---------------: | :-------------: | :----------------: | :------------: |
+|   Web Platforms   |   Mobile Apps   |   Backend & APIs   |    Portraits   |
+|  Full-Stack Apps  |   Flutter Apps  |  Database Systems  |     Events     |
+| Modern Interfaces |  Cross-Platform | Management Systems |   Landscapes   |
+
+</div>
+
+---
+
+
+<div align="center">
+
+## 📊 GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=DonDaii&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonDaii&layout=compact&hide_border=true" height="170"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=DonDaii&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 Currently
+
+**Building projects · Learning new technologies · Improving every day**
+
+<br>
+
+### ✦ Think. Build. Capture. Repeat. ✦
+
+<br>
+
+**Thanks for visiting my profile!**
+
+</div>
