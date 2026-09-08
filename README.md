@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jojulapa, I'm **Krishal Shrestha** 👋
+# ज्वजलपा, I'm **Krishal Shrestha** 👋
 
 ### `Computer Engineer` · `Software Developer` · `Photographer`
 
