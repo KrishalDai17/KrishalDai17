@@ -45,23 +45,10 @@ I enjoy learning by building — from developing applications and APIs to creati
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,dart,cpp,c,php" />
-
-### Frontend & Mobile
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,flutter" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,postgres,mysql,supabase,firebase" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,vercel,cloudinary" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,dart,cpp,c,php,html,css,tailwind,react,nextjs,flutter,fastapi,django,nodejs,postgres,mysql,supabase,firebase,git,github,vscode,androidstudio,vercel,cloudinary" />
 
 </div>
+
 
 ---
 
