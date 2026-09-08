@@ -1,44 +1,62 @@
-# Hi, I'm Krishal Shrestha 👋
+# Hey, I'm Krishal 👋
 
-**Computer Engineering Student • Software Developer • Photographer**
+### `Computer Engineer` · `Software Developer` · `Photographer`
 
-I’m a Computer Engineering student from Nepal who enjoys turning ideas into practical digital products. I work across **web development, mobile applications, backend systems, and databases**, while pursuing my passion for **photography and visual storytelling**.
+> Building things with code. Capturing things with a camera. 🇳🇵
 
-### 💻 Tech & Interests
-
-`Python` `JavaScript` `TypeScript` `C/C++` `Dart` `PHP`
-`React` `Next.js` `Flutter` `FastAPI` `Django`
-`Supabase` `Firebase` `PostgreSQL` `MySQL`
-`Git` `GitHub` `Vercel` `Cloudinary`
-
-### 🚀 What I Build
-
-* 🌐 Web & full-stack applications
-* 📱 Mobile applications
-* ⚙️ Backend systems & APIs
-* 🗄️ Database-driven platforms
-* 📸 Photography & visual storytelling
-
-### 📸 Photographer
-
-**DR DSLR — Himal Shrestha**
-*“Capturing Moments Beyond Vision.”*
-
-I believe technology builds the future, while photography preserves the moments that matter.
-
-### 🌱 Currently
-
-Building projects, improving my engineering skills, and growing as both a **developer and photographer**.
-
-### 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/DonDaii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram)](YOUR_INSTAGRAM_URL)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook)](YOUR_FACEBOOK_URL)
+I'm a Computer Engineering student from Nepal passionate about **software development, problem solving, and visual storytelling**. I enjoy building useful applications, exploring technologies, and creating things that are both functional and meaningful.
 
 ---
 
-> **Build with logic. Create with vision. 📸💻**
+### ⚡ What I Do
 
-**Krishal Shrestha • Nepal 🇳🇵**
+💻 **Software Development**
+Web Applications · Mobile Apps · Backend & APIs · Databases
+
+📸 **Photography**
+Portraits · Events · Landscapes · Visual Stories
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,dart,cpp,c,php,react,nextjs,flutter,fastapi,django" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,git,github,vercel,cloudinary,html,css,tailwind" />
+</p>
+
+---
+
+### 📸 Beyond Code
+
+**DR DSLR — Himal Shrestha**
+*Capturing Moments Beyond Vision.*
+
+When I'm not writing code, you'll probably find me behind a camera.
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/DonDaii">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
+</p>
+
+---
+
+### ✦ Philosophy
+
+> **Think. Build. Capture. Repeat.**
+
+**— Krishal Shrestha**
